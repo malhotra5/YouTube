@@ -5,7 +5,7 @@ The object of linear regression is to find the line of best fit over a given set
 
 ## Gradient Descent 
 
-## 
+## Implementation 
 
 ## Video
 This is the link to the YouTube video for this tutorial made in Manim
